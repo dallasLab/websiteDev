@@ -1,0 +1,69 @@
+---
+title: "Academic websites"
+author: "Tad Dallas"
+date: 2023-12-23
+categories: ["website dev"]
+tags: ["website", "meta"]
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+
+# Introductions
+
+Who am I? Who are you? 
+
+
+
+
+
+
+
+# Discussion on academic websites
+
++ Why do you want to create a website? 
+
+
+
+
++ What makes a good academic website? 
+
+
+
+
++ Are there specific examples or people whose websites you admire? 
+
+
+
+
++ What tools do you have experience with relate to the creation of academic websites? 
+
+
+
+
+
++ What do you see as the steps to creating an academic website? 
+
+
+
+
++ What are some potential stumbling blocks you see as you start to create your website? 
+
+
+
+
+
+
+
+
+
+# Goals of the seminar 
+
++ Create an academic website
+
++ Familiarize folks with version control and the different tools for static site generation
+
++ Have some fun
